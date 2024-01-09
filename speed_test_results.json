@@ -1,0 +1,872 @@
+[
+  {
+    "url": "vpn-nl4.trafflink.xyz",
+    "port": 443,
+    "speed_mps": 4451.6193661230445
+  },
+  {
+    "url": "vpn-se2.trafflink.xyz",
+    "port": 143,
+    "speed_mps": 4078.5512286888566
+  },
+  {
+    "url": "blade5.frankfurt-rack444.nodes.gen4.ninja",
+    "port": 9002,
+    "speed_mps": 4024.4467425914268
+  },
+  {
+    "url": "vpn-es2.trafflink.xyz",
+    "port": 443,
+    "speed_mps": 3564.792595271196
+  },
+  {
+    "url": "vpn-nl1.trafflink.xyz",
+    "port": 443,
+    "speed_mps": 1540.2370053227792
+  },
+  {
+    "url": "blade14.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "speed_mps": 897.8826625735143
+  },
+  {
+    "url": "blade7.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "speed_mps": 882.1380767390247
+  },
+  {
+    "url": "blade17.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "speed_mps": 841.4357481870934
+  },
+  {
+    "url": "blade12.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade26.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade3.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade23.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade24.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade11.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade16.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-uk5.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "us32.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "us35.trafcfy.com",
+    "port": 1007,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "us24.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade1.bucharest-rack453.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-se1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-fr3.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-se1.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "uk31.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade9.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade10.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "nl58.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade13.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade18.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade19.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade6.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade1.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade15.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade2.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-uk3.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade8.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade20.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade5.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-fr3.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "nl41.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-ru1.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-ru1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "www-prod-us-tki-1.workingvpn.com",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de2.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de3.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de3.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-nl2.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-nl2.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de4.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-nl3.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de2.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-ru2.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-ro1.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-ru4.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade1.bucharest-rack452.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-ro1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-nl3.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-es1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de1.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-nl4.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-se2.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de4.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "www-prod-fr-1.workingvpn.com",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-nl5.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-es2.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "www-prod-gb-1.workingvpn.com",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-de1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-es1.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-nl5.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "nl50.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-fr1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade2.frankfurt-rack444.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade1.frankfurt-rack444.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-fr1.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade4.amsterdam-rack401.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade3.frankfurt-rack444.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade1.amsterdam-rack401.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade5.amsterdam-rack401.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade2.amsterdam-rack401.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade1.bucharest-rack451.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "nl73.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade4.frankfurt-rack444.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "us29.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "nl55.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-uk2.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-uk1.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-uk5.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "www-prod-de-1.workingvpn.com",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 407 Proxy Authentication Required')))"
+  },
+  {
+    "url": "blade25.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgSKxyPbGK2J9KwGIjDy7OZgqJocCtcvlVo8j9DlH7e8MM4a7PbhrB1nlynEaFB1Q3N2iZ8FYBoxfNnpZgQyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade21.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgSKxyPXGK2J9KwGIjDLemRGOLx84RXqGJg0dIfbDctM7NXNugH-GKAPKhBiBigVqcIx61e9Gov2XcC65WEyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-ru3.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-fr2.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "vpn-fr2.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade4.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgSKxyPGGK2J9KwGIjCh4AbUQ2A_NaKK7-Al2E4mz_XEKC4DCESOGQqmIaN7JKLIzoXAl3Qqho8CBdEXyoIyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade22.losangeles-rack422.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgSKxyPYGK2J9KwGIjCSqgmiaDvGtCat-QeVUivkx5iZE4wiXr96IYciZX4xRqj7AF5wrxIgTmB3ldc_UwYyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "blade3.amsterdam-rack401.nodes.gen4.ninja",
+    "port": 9002,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgRUES98GK2J9KwGIjB_FRtewR4dpu2fO_zQj9ODLR9QEg-77wTvyjllCbs40c7IBrD06fneWsS0pAlYZYwyAXJKGVNPUlJZX0FCVVNJVkVfTkVUX01FU1NBR0VaAUM (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "nl95.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105845a90>, 'Connection to nl95.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk32.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105866d30>, 'Connection to uk32.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "vpn-uk1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105883c10>, 'Connection to vpn-uk1.trafflink.xyz timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk30.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105853520>, 'Connection to uk30.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl62.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10589cf40>, 'Connection to nl62.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl42.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105883610>, 'Connection to nl42.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl87.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10584c6d0>, 'Connection to nl87.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl85.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058831c0>, 'Connection to nl85.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk27.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058a4820>, 'Connection to uk27.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl70.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058acd60>, 'Connection to nl70.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl94.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058daeb0>, 'Connection to nl94.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl44.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058cfee0>, 'Connection to nl44.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk37.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1015bcc70>, 'Connection to uk37.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl72.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058da790>, 'Connection to nl72.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl56.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058cf4c0>, 'Connection to nl56.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl93.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058e1eb0>, 'Connection to nl93.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl64.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058e1670>, 'Connection to nl64.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk28.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1017de3d0>, 'Connection to uk28.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl67.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058c0580>, 'Connection to nl67.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl45.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x101605a00>, 'Connection to nl45.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl79.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058faa30>, 'Connection to nl79.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk35.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058fa580>, 'Connection to uk35.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl60.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059021c0>, 'Connection to nl60.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl83.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058fab80>, 'Connection to nl83.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk22.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105902df0>, 'Connection to uk22.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk34.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1016cf430>, 'Connection to uk34.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl63.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1016cf160>, 'Connection to nl63.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl65.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1016cf940>, 'Connection to nl65.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl53.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1016cfd30>, 'Connection to nl53.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl61.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10591d9d0>, 'Connection to nl61.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk33.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059022b0>, 'Connection to uk33.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl90.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1017b48e0>, 'Connection to nl90.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "vpn-ru3.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105883ac0>, 'Connection to vpn-ru3.trafflink.xyz timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl82.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105943220>, 'Connection to nl82.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl71.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x101654ee0>, 'Connection to nl71.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk36.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10594ae20>, 'Connection to uk36.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl91.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105943310>, 'Connection to nl91.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl74.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105960130>, 'Connection to nl74.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk29.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10594fb20>, 'Connection to uk29.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk24.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10593a2e0>, 'Connection to uk24.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us31.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059dd550>, 'Connection to us31.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us25.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059dd190>, 'Connection to us25.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us23.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059e4490>, 'Connection to us23.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us35.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059e40d0>, 'Connection to us35.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us21.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059e4850>, 'Connection to us21.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us31.trafcfy.com",
+    "port": 1007,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059ddc40>, 'Connection to us31.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl51.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10594af40>, 'Connection to nl51.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us34.trafcfy.com",
+    "port": 1007,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059ee6a0>, 'Connection to us34.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk23.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x101513310>, 'Connection to uk23.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us26.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059f7700>, 'Connection to us26.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us34.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059ee7c0>, 'Connection to us34.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us28.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059f7340>, 'Connection to us28.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk25.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10594a7f0>, 'Connection to uk25.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl89.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10594ff10>, 'Connection to nl89.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl43.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10593a070>, 'Connection to nl43.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl86.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059164f0>, 'Connection to nl86.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl59.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105934ac0>, 'Connection to nl59.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl78.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1015137c0>, 'Connection to nl78.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl68.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105923550>, 'Connection to nl68.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "uk26.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1016cf340>, 'Connection to uk26.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "vpn-ru4.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058456d0>, 'Connection to vpn-ru4.trafflink.xyz timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "vpn-ru2.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1058b74f0>, 'Connection to vpn-ru2.trafflink.xyz timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl81.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105966220>, 'Connection to nl81.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl92.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10591dca0>, 'Connection to nl92.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl84.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10594f070>, 'Connection to nl84.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl88.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059608b0>, 'Connection to nl88.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "us30.trafcfy.com",
+    "port": 1007,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1112: The handshake operation timed out')))"
+  },
+  {
+    "url": "nl57.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1112: The handshake operation timed out')))"
+  },
+  {
+    "url": "nl66.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1112: The handshake operation timed out')))"
+  },
+  {
+    "url": "nl52.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1112: The handshake operation timed out')))"
+  },
+  {
+    "url": "nl69.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105959580>, 'Connection to nl69.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "nl80.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1112: The handshake operation timed out')))"
+  },
+  {
+    "url": "vpn-uk2.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  },
+  {
+    "url": "us30.trafcfy.com",
+    "port": 431,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgTP9FmmGK2J9KwGIim5xKkFnIxIe0aPHPxWeBxP6G2DxOt11nlNOsck2gdYxyhS6iJCOepHljIGPmpjbmRyWgFD (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1059598b0>, 'Connection to us30.trafcfy.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "vpn-uk4.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1112: The handshake operation timed out')))"
+  },
+  {
+    "url": "vpn-uk3.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgQzWZ2vGLWJ9KwGIil-u6VLR5jJXk_7IrXGbdcpE5Cx9xIVCISkqtBoYEm-qrtc1AZA_EomgDIGPmpjbmRyWgFD (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x101601490>, 'Connection to vpn-uk3.trafflink.xyz timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "vpn-uk4.trafflink.xyz",
+    "port": 443,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /sorry/index?continue=https://google.com/&q=EgQzWfvQGLSJ9KwGIikz0NYw-wYdJkkJtYSwyCnz2cNyq-SYgoCtATbU6Xvy8AN1ZnOz8zsxeTIGPmpjbmRyWgFD (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1112: The handshake operation timed out')))"
+  },
+  {
+    "url": "vpn-nl1.trafflink.xyz",
+    "port": 143,
+    "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))"
+  }
+]
