@@ -15,7 +15,7 @@
 1. [AutoGen](https://microsoft.github.io/autogen/) - AutoGen 框架。
 2. [ollama](https://ollama.ai/) - 用于部署本地大模型，计划部署 mistral-7b。
 3. [litellm](https://docs.litellm.ai/docs/) - 用于大模型协议转换，将其转换为 OpenAI 标准格式的 API。
-4. 科学上网 - [***](https://github.com)
+4. 科学上网 - [***](https://github.com/Aszzc/AutoGenLocal/blob/main/https_proxy_SpeedTest.py)
 
 ## 4. 实践思路
 
