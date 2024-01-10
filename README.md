@@ -1,4 +1,4 @@
-# AutoGen 本地环境搭建 - Colab（1/2）
+# AutoGen 本地环境搭建
 
 ## 1. 背景
 
